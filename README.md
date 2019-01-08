@@ -3,7 +3,8 @@
 ---
 ##### Technologies:
 
-1.HTML
-2.CSS
+1. HTML
+2. CSS
+
 ---
 [You can see it here](https://stan0men.github.io/Olenka_landing/)
