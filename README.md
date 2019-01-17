@@ -3,7 +3,7 @@
 ---
 
 ##### Link
-You can see it here](https://stan0men.github.io/Olenka_landing/)
+[You can see it here](https://stan0men.github.io/Olenka_landing/)
 
 ---
 ##### Technologies:
